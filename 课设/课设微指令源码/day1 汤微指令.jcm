@@ -1,0 +1,81 @@
+{
+	"version": "1.0.0",
+	"flag": "JCM",
+	"data": [
+		{
+			"key": 0,
+			"instruction": "20080001",
+			"command": ""
+		},
+		{
+			"key": 1,
+			"instruction": "00069002",
+			"command": ""
+		},
+		{
+			"key": 2,
+			"instruction": "CC000003",
+			"command": ""
+		},
+		{
+			"key": 3,
+			"instruction": "00000404",
+			"command": ""
+		},
+		{
+			"key": 6,
+			"instruction": "00000A28",
+			"command": ""
+		},
+		{
+			"key": 7,
+			"instruction": "00000800",
+			"command": ""
+		},
+		{
+			"key": 44,
+			"instruction": "20080030",
+			"command": ""
+		},
+		{
+			"key": 48,
+			"instruction": "00069031",
+			"command": ""
+		},
+		{
+			"key": 49,
+			"instruction": "C0080032",
+			"command": ""
+		},
+		{
+			"key": 50,
+			"instruction": "00061033",
+			"command": ""
+		},
+		{
+			"key": 51,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 81,
+			"instruction": "60030052",
+			"command": ""
+		},
+		{
+			"key": 82,
+			"instruction": "00052200",
+			"command": ""
+		},
+		{
+			"key": 112,
+			"instruction": "A4000200",
+			"command": ""
+		},
+		{
+			"key": 113,
+			"instruction": "1A700E50",
+			"command": ""
+		}
+	]
+}

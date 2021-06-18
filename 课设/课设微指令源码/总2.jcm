@@ -1,0 +1,676 @@
+{
+	"version": "1.0.0",
+	"flag": "JCM",
+	"data": [
+		{
+			"key": 0,
+			"instruction": "20080001",
+			"command": ""
+		},
+		{
+			"key": 1,
+			"instruction": "00069002",
+			"command": ""
+		},
+		{
+			"key": 2,
+			"instruction": "CC000003",
+			"command": ""
+		},
+		{
+			"key": 3,
+			"instruction": "00000404",
+			"command": ""
+		},
+		{
+			"key": 4,
+			"instruction": "00000A08",
+			"command": ""
+		},
+		{
+			"key": 5,
+			"instruction": "00000A08",
+			"command": ""
+		},
+		{
+			"key": 6,
+			"instruction": "00000A28",
+			"command": ""
+		},
+		{
+			"key": 7,
+			"instruction": "00000800",
+			"command": ""
+		},
+		{
+			"key": 8,
+			"instruction": "50000006",
+			"command": ""
+		},
+		{
+			"key": 9,
+			"instruction": "40080085",
+			"command": ""
+		},
+		{
+			"key": 11,
+			"instruction": "20080095",
+			"command": ""
+		},
+		{
+			"key": 12,
+			"instruction": "200800A0",
+			"command": ""
+		},
+		{
+			"key": 13,
+			"instruction": "200800A5",
+			"command": ""
+		},
+		{
+			"key": 14,
+			"instruction": "200800B0",
+			"command": ""
+		},
+		{
+			"key": 15,
+			"instruction": "200800C0",
+			"command": ""
+		},
+		{
+			"key": 40,
+			"instruction": "54000007",
+			"command": ""
+		},
+		{
+			"key": 41,
+			"instruction": "400800D5",
+			"command": ""
+		},
+		{
+			"key": 43,
+			"instruction": "200800E5",
+			"command": ""
+		},
+		{
+			"key": 44,
+			"instruction": "200800F0",
+			"command": ""
+		},
+		{
+			"key": 45,
+			"instruction": "20080100",
+			"command": ""
+		},
+		{
+			"key": 46,
+			"instruction": "20080110",
+			"command": ""
+		},
+		{
+			"key": 47,
+			"instruction": "20080120",
+			"command": ""
+		},
+		{
+			"key": 65,
+			"instruction": "94000150",
+			"command": ""
+		},
+		{
+			"key": 66,
+			"instruction": "98700E50",
+			"command": ""
+		},
+		{
+			"key": 67,
+			"instruction": "98B00E50",
+			"command": ""
+		},
+		{
+			"key": 68,
+			"instruction": "98F00E50",
+			"command": ""
+		},
+		{
+			"key": 69,
+			"instruction": "99300E50",
+			"command": ""
+		},
+		{
+			"key": 73,
+			"instruction": "98C00200",
+			"command": ""
+		},
+		{
+			"key": 74,
+			"instruction": "99400200",
+			"command": ""
+		},
+		{
+			"key": 80,
+			"instruction": "68000200",
+			"command": ""
+		},
+		{
+			"key": 81,
+			"instruction": "60030052",
+			"command": ""
+		},
+		{
+			"key": 82,
+			"instruction": "00052200",
+			"command": ""
+		},
+		{
+			"key": 88,
+			"instruction": "00000058",
+			"command": ""
+		},
+		{
+			"key": 90,
+			"instruction": "F40801AD",
+			"command": ""
+		},
+		{
+			"key": 91,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 97,
+			"instruction": "18100E50",
+			"command": ""
+		},
+		{
+			"key": 98,
+			"instruction": "18200E50",
+			"command": ""
+		},
+		{
+			"key": 99,
+			"instruction": "18100E50",
+			"command": ""
+		},
+		{
+			"key": 100,
+			"instruction": "18200E50",
+			"command": ""
+		},
+		{
+			"key": 101,
+			"instruction": "18100E50",
+			"command": ""
+		},
+		{
+			"key": 102,
+			"instruction": "18200E50",
+			"command": ""
+		},
+		{
+			"key": 103,
+			"instruction": "18100E50",
+			"command": ""
+		},
+		{
+			"key": 104,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 105,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 106,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 107,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 108,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 109,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 110,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 111,
+			"instruction": "00000780",
+			"command": ""
+		},
+		{
+			"key": 112,
+			"instruction": "A4000200",
+			"command": ""
+		},
+		{
+			"key": 113,
+			"instruction": "1A700E50",
+			"command": ""
+		},
+		{
+			"key": 114,
+			"instruction": "1AB00E50",
+			"command": ""
+		},
+		{
+			"key": 120,
+			"instruction": "003001A0",
+			"command": ""
+		},
+		{
+			"key": 121,
+			"instruction": "B00001A5",
+			"command": ""
+		},
+		{
+			"key": 122,
+			"instruction": "F4000190",
+			"command": ""
+		},
+		{
+			"key": 133,
+			"instruction": "00061086",
+			"command": ""
+		},
+		{
+			"key": 134,
+			"instruction": "D0000006",
+			"command": ""
+		},
+		{
+			"key": 149,
+			"instruction": "00069096",
+			"command": ""
+		},
+		{
+			"key": 150,
+			"instruction": "D0000006",
+			"command": ""
+		},
+		{
+			"key": 160,
+			"instruction": "000690A1",
+			"command": ""
+		},
+		{
+			"key": 161,
+			"instruction": "C00800A2",
+			"command": ""
+		},
+		{
+			"key": 162,
+			"instruction": "000610A3",
+			"command": ""
+		},
+		{
+			"key": 163,
+			"instruction": "D0000006",
+			"command": ""
+		},
+		{
+			"key": 165,
+			"instruction": "000690A6",
+			"command": ""
+		},
+		{
+			"key": 166,
+			"instruction": "C00800A7",
+			"command": ""
+		},
+		{
+			"key": 167,
+			"instruction": "000610A8",
+			"command": ""
+		},
+		{
+			"key": 168,
+			"instruction": "C00800A9",
+			"command": ""
+		},
+		{
+			"key": 169,
+			"instruction": "000610AA",
+			"command": ""
+		},
+		{
+			"key": 170,
+			"instruction": "D0000006",
+			"command": ""
+		},
+		{
+			"key": 176,
+			"instruction": "000690B1",
+			"command": ""
+		},
+		{
+			"key": 177,
+			"instruction": "D40000B2",
+			"command": ""
+		},
+		{
+			"key": 178,
+			"instruction": "407000B3",
+			"command": ""
+		},
+		{
+			"key": 179,
+			"instruction": "600800A2",
+			"command": ""
+		},
+		{
+			"key": 192,
+			"instruction": "000690C1",
+			"command": ""
+		},
+		{
+			"key": 193,
+			"instruction": "D40000C2",
+			"command": ""
+		},
+		{
+			"key": 194,
+			"instruction": "207000C3",
+			"command": ""
+		},
+		{
+			"key": 195,
+			"instruction": "600800C4",
+			"command": ""
+		},
+		{
+			"key": 196,
+			"instruction": "000610C5",
+			"command": ""
+		},
+		{
+			"key": 197,
+			"instruction": "D0000006",
+			"command": ""
+		},
+		{
+			"key": 213,
+			"instruction": "000610D6",
+			"command": ""
+		},
+		{
+			"key": 214,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 229,
+			"instruction": "000690E6",
+			"command": ""
+		},
+		{
+			"key": 230,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 240,
+			"instruction": "000690F1",
+			"command": ""
+		},
+		{
+			"key": 241,
+			"instruction": "C00800F2",
+			"command": ""
+		},
+		{
+			"key": 242,
+			"instruction": "000610F3",
+			"command": ""
+		},
+		{
+			"key": 243,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 256,
+			"instruction": "00069101",
+			"command": ""
+		},
+		{
+			"key": 257,
+			"instruction": "C0080102",
+			"command": ""
+		},
+		{
+			"key": 258,
+			"instruction": "00061103",
+			"command": ""
+		},
+		{
+			"key": 259,
+			"instruction": "C0080104",
+			"command": ""
+		},
+		{
+			"key": 260,
+			"instruction": "00061105",
+			"command": ""
+		},
+		{
+			"key": 261,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 262,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 272,
+			"instruction": "00069111",
+			"command": ""
+		},
+		{
+			"key": 273,
+			"instruction": "D4000112",
+			"command": ""
+		},
+		{
+			"key": 274,
+			"instruction": "40700113",
+			"command": ""
+		},
+		{
+			"key": 275,
+			"instruction": "600800F2",
+			"command": ""
+		},
+		{
+			"key": 288,
+			"instruction": "00069121",
+			"command": ""
+		},
+		{
+			"key": 289,
+			"instruction": "D4000122",
+			"command": ""
+		},
+		{
+			"key": 290,
+			"instruction": "20700123",
+			"command": ""
+		},
+		{
+			"key": 291,
+			"instruction": "60080124",
+			"command": ""
+		},
+		{
+			"key": 292,
+			"instruction": "00061125",
+			"command": ""
+		},
+		{
+			"key": 293,
+			"instruction": "D4000007",
+			"command": ""
+		},
+		{
+			"key": 336,
+			"instruction": "00300E50",
+			"command": ""
+		},
+		{
+			"key": 384,
+			"instruction": "00000200",
+			"command": ""
+		},
+		{
+			"key": 385,
+			"instruction": "A4000200",
+			"command": ""
+		},
+		{
+			"key": 386,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 387,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 388,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 389,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 390,
+			"instruction": "00000000",
+			"command": ""
+		},
+		{
+			"key": 391,
+			"instruction": "",
+			"command": ""
+		},
+		{
+			"key": 400,
+			"instruction": "02B00191",
+			"command": ""
+		},
+		{
+			"key": 401,
+			"instruction": "B0000192",
+			"command": ""
+		},
+		{
+			"key": 402,
+			"instruction": "60080193",
+			"command": ""
+		},
+		{
+			"key": 403,
+			"instruction": "7C000194",
+			"command": ""
+		},
+		{
+			"key": 404,
+			"instruction": "20030195",
+			"command": ""
+		},
+		{
+			"key": 405,
+			"instruction": "00052196",
+			"command": ""
+		},
+		{
+			"key": 406,
+			"instruction": "84000200",
+			"command": ""
+		},
+		{
+			"key": 416,
+			"instruction": "600301A1",
+			"command": ""
+		},
+		{
+			"key": 417,
+			"instruction": "F40001A2",
+			"command": ""
+		},
+		{
+			"key": 418,
+			"instruction": "02B001A3",
+			"command": ""
+		},
+		{
+			"key": 419,
+			"instruction": "7C080052",
+			"command": ""
+		},
+		{
+			"key": 421,
+			"instruction": "F40801A6",
+			"command": ""
+		},
+		{
+			"key": 422,
+			"instruction": "027611A7",
+			"command": ""
+		},
+		{
+			"key": 423,
+			"instruction": "800801A8",
+			"command": ""
+		},
+		{
+			"key": 424,
+			"instruction": "7C0001A9",
+			"command": ""
+		},
+		{
+			"key": 425,
+			"instruction": "D40001AA",
+			"command": ""
+		},
+		{
+			"key": 426,
+			"instruction": "00300E50",
+			"command": ""
+		},
+		{
+			"key": 429,
+			"instruction": "027611AE",
+			"command": ""
+		},
+		{
+			"key": 430,
+			"instruction": "7C0001AF",
+			"command": ""
+		},
+		{
+			"key": 431,
+			"instruction": "C4000200",
+			"command": ""
+		}
+	]
+}
